@@ -1,7 +1,4 @@
 # Hello-World
-Just another repository
+New home page for portfolio site
 
-
-Hi, I'm Riley. I love anime and i'm learning to code.
-Forgive me, I'm new to this so I would love to have your support on this journey if i can.
-Arigato.
+With focus on the homepage design which is still in progress.
